@@ -21,7 +21,7 @@ fda-food-qc/
 
 ---
 
-## 🛠️ Core Capabilities & Workflow
+## Core Capabilities & Workflow
 
 1. **Schema Validation (`schema.py`):**
    * Enforces strict data types, required fields, and acceptable ranges for FDA inspection and compliance metrics.
